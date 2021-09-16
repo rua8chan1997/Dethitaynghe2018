@@ -1,0 +1,51 @@
+E:\visual studio\source\WinForm\Module1_NgoNgocLuc\Module1_NgoNgocLuc\bin\Debug\Module1_NgoNgocLuc.exe.config
+E:\visual studio\source\WinForm\Module1_NgoNgocLuc\Module1_NgoNgocLuc\bin\Debug\Module1_NgoNgocLuc.exe
+E:\visual studio\source\WinForm\Module1_NgoNgocLuc\Module1_NgoNgocLuc\bin\Debug\Module1_NgoNgocLuc.pdb
+E:\visual studio\source\WinForm\Module1_NgoNgocLuc\Module1_NgoNgocLuc\obj\Debug\Module1_NgoNgocLuc.csprojAssemblyReference.cache
+E:\visual studio\source\WinForm\Module1_NgoNgocLuc\Module1_NgoNgocLuc\obj\Debug\Module1_NgoNgocLuc.Login.resources
+E:\visual studio\source\WinForm\Module1_NgoNgocLuc\Module1_NgoNgocLuc\obj\Debug\Module1_NgoNgocLuc.Properties.Resources.resources
+E:\visual studio\source\WinForm\Module1_NgoNgocLuc\Module1_NgoNgocLuc\obj\Debug\Module1_NgoNgocLuc.csproj.GenerateResource.cache
+E:\visual studio\source\WinForm\Module1_NgoNgocLuc\Module1_NgoNgocLuc\obj\Debug\Module1_NgoNgocLuc.csproj.CoreCompileInputs.cache
+E:\visual studio\source\WinForm\Module1_NgoNgocLuc\Module1_NgoNgocLuc\obj\Debug\Module1_NgoNgocLuc.exe
+E:\visual studio\source\WinForm\Module1_NgoNgocLuc\Module1_NgoNgocLuc\obj\Debug\Module1_NgoNgocLuc.pdb
+E:\visual studio\source\WinForm\Module1_NgoNgocLuc\Module1_NgoNgocLuc\obj\Debug\Module1_NgoNgocLuc.ABC.resources
+E:\visual studio\source\WinForm\Module1_NgoNgocLuc\Module1_NgoNgocLuc\obj\Debug\Module1_NgoNgocLuc.MenuAdmin.resources
+E:\visual studio\source\WinForm\Module1_NgoNgocLuc\Module1_NgoNgocLuc\obj\Debug\Module1_NgoNgocLuc.FormAddUser.resources
+E:\visual studio\source\WinForm\Module1_NgoNgocLuc\Module1_NgoNgocLuc\obj\Debug\Module1_NgoNgocLuc.FormEditRole.resources
+E:\visual studio\source\WinForm\Module1_NgoNgocLuc\Module1_NgoNgocLuc\obj\Debug\Module1_NgoNgocLuc.FormMenuUser.resources
+E:\visual studio\source\WinForm\Module1_NgoNgocLuc\Module1_NgoNgocLuc\obj\Debug\Module1_NgoNgocLuc.FormCount.resources
+E:\visual studio\source\WinForm\Module1_NgoNgocLuc\Module1_NgoNgocLuc\obj\Debug\Module1_NgoNgocLuc.FormActiveCrash.resources
+D:\visual studio\source\WinForm\Module1_NgoNgocLuc\Module1_NgoNgocLuc\bin\Debug\Module1_NgoNgocLuc.exe.config
+D:\visual studio\source\WinForm\Module1_NgoNgocLuc\Module1_NgoNgocLuc\bin\Debug\Module1_NgoNgocLuc.exe
+D:\visual studio\source\WinForm\Module1_NgoNgocLuc\Module1_NgoNgocLuc\bin\Debug\Module1_NgoNgocLuc.pdb
+D:\visual studio\source\WinForm\Module1_NgoNgocLuc\Module1_NgoNgocLuc\obj\Debug\Module1_NgoNgocLuc.csprojAssemblyReference.cache
+D:\visual studio\source\WinForm\Module1_NgoNgocLuc\Module1_NgoNgocLuc\obj\Debug\Module1_NgoNgocLuc.ABC.resources
+D:\visual studio\source\WinForm\Module1_NgoNgocLuc\Module1_NgoNgocLuc\obj\Debug\Module1_NgoNgocLuc.FormActiveCrash.resources
+D:\visual studio\source\WinForm\Module1_NgoNgocLuc\Module1_NgoNgocLuc\obj\Debug\Module1_NgoNgocLuc.FormAddUser.resources
+D:\visual studio\source\WinForm\Module1_NgoNgocLuc\Module1_NgoNgocLuc\obj\Debug\Module1_NgoNgocLuc.FormCount.resources
+D:\visual studio\source\WinForm\Module1_NgoNgocLuc\Module1_NgoNgocLuc\obj\Debug\Module1_NgoNgocLuc.FormEditRole.resources
+D:\visual studio\source\WinForm\Module1_NgoNgocLuc\Module1_NgoNgocLuc\obj\Debug\Module1_NgoNgocLuc.FormMenuUser.resources
+D:\visual studio\source\WinForm\Module1_NgoNgocLuc\Module1_NgoNgocLuc\obj\Debug\Module1_NgoNgocLuc.Login.resources
+D:\visual studio\source\WinForm\Module1_NgoNgocLuc\Module1_NgoNgocLuc\obj\Debug\Module1_NgoNgocLuc.MenuAdmin.resources
+D:\visual studio\source\WinForm\Module1_NgoNgocLuc\Module1_NgoNgocLuc\obj\Debug\Module1_NgoNgocLuc.Properties.Resources.resources
+D:\visual studio\source\WinForm\Module1_NgoNgocLuc\Module1_NgoNgocLuc\obj\Debug\Module1_NgoNgocLuc.csproj.GenerateResource.cache
+D:\visual studio\source\WinForm\Module1_NgoNgocLuc\Module1_NgoNgocLuc\obj\Debug\Module1_NgoNgocLuc.csproj.CoreCompileInputs.cache
+D:\visual studio\source\WinForm\Module1_NgoNgocLuc\Module1_NgoNgocLuc\obj\Debug\Module1_NgoNgocLuc.exe
+D:\visual studio\source\WinForm\Module1_NgoNgocLuc\Module1_NgoNgocLuc\obj\Debug\Module1_NgoNgocLuc.pdb
+C:\Users\5SCOMPUTER\Desktop\Ngô Ngọc Lực - 2017603692\chương trình\Module1_NgoNgocLuc\Module1_NgoNgocLuc\bin\Debug\Module1_NgoNgocLuc.exe.config
+C:\Users\5SCOMPUTER\Desktop\Ngô Ngọc Lực - 2017603692\chương trình\Module1_NgoNgocLuc\Module1_NgoNgocLuc\bin\Debug\Module1_NgoNgocLuc.exe
+C:\Users\5SCOMPUTER\Desktop\Ngô Ngọc Lực - 2017603692\chương trình\Module1_NgoNgocLuc\Module1_NgoNgocLuc\bin\Debug\Module1_NgoNgocLuc.pdb
+C:\Users\5SCOMPUTER\Desktop\Ngô Ngọc Lực - 2017603692\chương trình\Module1_NgoNgocLuc\Module1_NgoNgocLuc\obj\Debug\Module1_NgoNgocLuc.csprojAssemblyReference.cache
+C:\Users\5SCOMPUTER\Desktop\Ngô Ngọc Lực - 2017603692\chương trình\Module1_NgoNgocLuc\Module1_NgoNgocLuc\obj\Debug\Module1_NgoNgocLuc.ABC.resources
+C:\Users\5SCOMPUTER\Desktop\Ngô Ngọc Lực - 2017603692\chương trình\Module1_NgoNgocLuc\Module1_NgoNgocLuc\obj\Debug\Module1_NgoNgocLuc.FormActiveCrash.resources
+C:\Users\5SCOMPUTER\Desktop\Ngô Ngọc Lực - 2017603692\chương trình\Module1_NgoNgocLuc\Module1_NgoNgocLuc\obj\Debug\Module1_NgoNgocLuc.FormAddUser.resources
+C:\Users\5SCOMPUTER\Desktop\Ngô Ngọc Lực - 2017603692\chương trình\Module1_NgoNgocLuc\Module1_NgoNgocLuc\obj\Debug\Module1_NgoNgocLuc.FormCount.resources
+C:\Users\5SCOMPUTER\Desktop\Ngô Ngọc Lực - 2017603692\chương trình\Module1_NgoNgocLuc\Module1_NgoNgocLuc\obj\Debug\Module1_NgoNgocLuc.FormEditRole.resources
+C:\Users\5SCOMPUTER\Desktop\Ngô Ngọc Lực - 2017603692\chương trình\Module1_NgoNgocLuc\Module1_NgoNgocLuc\obj\Debug\Module1_NgoNgocLuc.FormMenuUser.resources
+C:\Users\5SCOMPUTER\Desktop\Ngô Ngọc Lực - 2017603692\chương trình\Module1_NgoNgocLuc\Module1_NgoNgocLuc\obj\Debug\Module1_NgoNgocLuc.Login.resources
+C:\Users\5SCOMPUTER\Desktop\Ngô Ngọc Lực - 2017603692\chương trình\Module1_NgoNgocLuc\Module1_NgoNgocLuc\obj\Debug\Module1_NgoNgocLuc.MenuAdmin.resources
+C:\Users\5SCOMPUTER\Desktop\Ngô Ngọc Lực - 2017603692\chương trình\Module1_NgoNgocLuc\Module1_NgoNgocLuc\obj\Debug\Module1_NgoNgocLuc.Properties.Resources.resources
+C:\Users\5SCOMPUTER\Desktop\Ngô Ngọc Lực - 2017603692\chương trình\Module1_NgoNgocLuc\Module1_NgoNgocLuc\obj\Debug\Module1_NgoNgocLuc.csproj.GenerateResource.cache
+C:\Users\5SCOMPUTER\Desktop\Ngô Ngọc Lực - 2017603692\chương trình\Module1_NgoNgocLuc\Module1_NgoNgocLuc\obj\Debug\Module1_NgoNgocLuc.csproj.CoreCompileInputs.cache
+C:\Users\5SCOMPUTER\Desktop\Ngô Ngọc Lực - 2017603692\chương trình\Module1_NgoNgocLuc\Module1_NgoNgocLuc\obj\Debug\Module1_NgoNgocLuc.exe
+C:\Users\5SCOMPUTER\Desktop\Ngô Ngọc Lực - 2017603692\chương trình\Module1_NgoNgocLuc\Module1_NgoNgocLuc\obj\Debug\Module1_NgoNgocLuc.pdb
